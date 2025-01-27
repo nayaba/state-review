@@ -58,8 +58,8 @@
 #### **Bonus Challenges:**
 1. Add an in-line style to the `<h1>` tag to dynamically change the color of the text to match the current favorite color.
    - Example:
-     ```
-     <h1 style={{ color: color }}>
+     ```html
+     <h1 style=&#123;&#123; color: color &#125;&#125;>
        My favorite color is: {color}
      </h1>
      ```
