@@ -7,6 +7,7 @@
 #### **Instructions:**
 
 1. **Create a New React App**
+   
    Start by creating a new React app. Open the `App.jsx` file.
 
 2. **Your Goal**
