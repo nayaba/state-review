@@ -1,4 +1,4 @@
-### **State Review Activity: Favorite Color**
+# **State Review Activity: Favorite Color**
 
 **Objective:** Review how to initialize and update state in a React component, with a bonus option to explore in-line styles.
 
